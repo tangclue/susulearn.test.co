@@ -1,6 +1,6 @@
 {
-    "name": "susulearn_tablet",
-    "short_name": "susulearn_tablet",
+    "name": "sslearn_workshop",
+    "short_name": "sslearn_workshop",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
